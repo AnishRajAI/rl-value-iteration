@@ -32,11 +32,11 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![OUTPUT](1.png)
+![image](1.png)
 
-![OUTPUT](2.png)
+![image](2.png)
 
-![OUTPUT](3.png)
+![image](3.png)
 
 ## RESULT:
 Thus, a Python program is developed to find the optimal policy for the given MDP using the value iteration algorithm.
