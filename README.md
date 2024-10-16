@@ -33,7 +33,7 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ![OUTPUT](Screenshot 2024-10-16 094349.png)
-![OUTPUT]()
+![OUTPUT](Screenshot 2024-10-16 094401.png)
 ![OUTPUT]()
 
 ## RESULT:
